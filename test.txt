@@ -1,2 +1,1 @@
-test
-test for prepare-git-message.
+test1
